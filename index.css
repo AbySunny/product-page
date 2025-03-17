@@ -1,0 +1,65 @@
+#img-logo {
+  width: 2rem;
+}
+
+.btn:hover {
+  color: black !important;
+  background: white !important;
+}
+
+.navbar-text {
+  font-size: 2rem;
+  font-style: italic;
+}
+
+.carousel-item img {
+  height: auto;
+}
+
+.carousel-caption {
+  margin-bottom: 12rem;
+}
+
+.banner img, .img-content img, .img-div img {
+  width: 100%;
+  height: auto;
+}
+
+.my-div {
+  background-image: linear-gradient(180deg, #282727, #000);
+}
+
+.my-div h1 {
+  color: beige;
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+.txt-div p {
+  font-size: 1.2rem;
+}
+
+.txt-div h1 {
+  color: rgb(255, 163, 25);
+}
+
+.last-div h1 {
+  color: rgb(251, 180, 29);
+}
+
+.footer-cont {
+  margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+  .navbar-text, .prize {
+    font-size: 1rem;
+    font-style: italic;
+  }
+  .btn {
+    font-size: 10px !important;
+  }
+  .head {
+    align-items: center;
+  }
+}/*# sourceMappingURL=index.css.map */
